@@ -2,5 +2,5 @@
 int main(){
 printf("Hello World");
 printf("This is my first repository");
-printf("Ath so cute");
+printf("fathiah awanis");
 }
